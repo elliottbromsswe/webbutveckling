@@ -1,9 +1,30 @@
 html {
-  font-family: sans-serif;
+    font-family: sans-serif;
 }
 
 /* Your CSS below here */
 
+p {
+    width: 200px;
+    border: 1px solid;
+    border-color: darkred;
+    padding: 5px;
+    margin: 45px;
+    text-align: center;
+    font-size: 18px;
+    background-color: crimson;
+    color: crimson;
+    text-shadow: 1px 1px black;
+    box-shadow: 1px 1px;
+    border-radius: 5px;
+    background-image: linear-gradient(to bottom right, rgba(186, 40, 40, 0.2) 30%, black 140%);
+    box-shadow: 1px 1px 1px black,
+        inset 2px 3px 5px rgba(0, 0, 0, 0.3),
+        inset -2px -3px 5px rgba(255, 255, 255, 0.5);
 
 
 
+
+
+
+}
